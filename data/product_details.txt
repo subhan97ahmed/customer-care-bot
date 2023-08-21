@@ -1,0 +1,48 @@
+Phone Details
+
+Product ID: 1
+Model: XYZ-2000
+Brand: TechWave
+Color: Midnight Black
+Screen Size: 6.5 inches
+Resolution: 1080 x 2400 pixels
+Processor: Octa-core Snapdragon 750
+RAM: 6 GB
+Storage: 128 GB
+Camera: Dual Rear (16 MP + 12 MP), Front (8 MP)
+Battery: 4000 mAh
+Operating System: Android 11
+Special Features: 5G Connectivity, NFC, Fingerprint Sensor
+Price: $499.99
+
+Description:
+The XYZ-2000 smartphone by TechWave offers powerful performance and a stunning display. With its octa-core Snapdragon processor and ample RAM, it handles multitasking with ease. Capture clear photos with the dual rear cameras and enjoy immersive visuals on the 6.5-inch Full HD+ screen. Stay connected with 5G capabilities and secure your device with the integrated fingerprint sensor. The phone's sleek design and advanced features make it an ideal choice for tech enthusiasts.
+
+Availability:
+In stock. Ships within 2 business days.
+
+Warranty:
+1-year manufacturer's warranty included.
+
+TV Details
+Product ID: 2
+Model: VisionMax 55A
+Brand: Horizon Electronics
+Screen Size: 55 inches
+Display Type: LED
+Resolution: 4K Ultra HD (3840 x 2160)
+Refresh Rate: 120Hz
+Smart TV: Yes
+Operating System: SmartOS
+Connectivity: Wi-Fi, Bluetooth, HDMI, USB
+Audio: Dolby Atmos
+Price: $899.00
+
+Description:
+The VisionMax 55A TV by Horizon Electronics delivers a captivating viewing experience. With a large 55-inch 4K Ultra HD LED screen and a high refresh rate, enjoy stunning visuals and smooth motion. The TV comes with SmartOS, allowing you to stream your favorite shows and movies from popular apps. Connect seamlessly with Wi-Fi and Bluetooth, and immerse yourself in rich sound with Dolby Atmos audio technology. The VisionMax 55A TV combines cutting-edge features with sleek design for your entertainment needs.
+
+Availability:
+Pre-order now. Expected release in 3 weeks.
+
+Warranty:
+2-year manufacturer's warranty included.
