@@ -1,0 +1,130 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " Hi there! How can I help you today?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "do u have tvs?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " \nYes we do! We have the VisionMax 55A by Horizon Electronics. It has a 55-inch 4K Ultra HD LED screen, SmartOS, Wi-Fi, Bluetooth, HDMI, USB, Dolby Atmos audio, and more. It's $899 and you can pre-order now with an expected release in 3 weeks. You also get a 2-year manufacturer's warranty included. Would you like to know more?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "what are some Non-Returnable Items?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "\nNon-Returnable Items include perishable goods, intimate or sanitary goods, gift cards, and downloadable software products.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "my name is subhan and my order id is 54",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " Hi Subhan, thanks for your order! Your order ID is 54. How can I help you today?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bye",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "\nThanks for contacting us! If you have any other questions or need any further assistance with your return, please don't hesitate to contact us again. Have a great day!",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "what is my name?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " I'm sorry, I don't have access to your personal information. Please provide your order ID so I can look up your order.",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "54",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " Hi Subhan, thanks for your order! Your order ID is 54. How can I help you today?",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bye",
+            "additional_kwargs": {},
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": " Thanks for contacting us! If you have any other questions or need any further assistance with your return, please don't hesitate to contact us again. Have a great day!",
+            "additional_kwargs": {},
+            "example": false
+        }
+    }
+]
