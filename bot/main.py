@@ -1,12 +1,12 @@
 import os
-from bot import utils
+import utils
 from langchain.schema import messages_to_dict
-from bot.InfoExtraction import InfoExtraction
+from InfoExtraction import InfoExtraction
 from langchain import PromptTemplate
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferWindowMemory, ConversationBufferMemory, ChatMessageHistory
 from langchain.llms import OpenAI
-from bot.db import ChromaDBHandler
+from db import ChromaDBHandler
 
 os.environ["OPENAI_API_KEY"] = "sk-"
 
